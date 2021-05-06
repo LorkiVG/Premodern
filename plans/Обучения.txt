@@ -1,0 +1,26 @@
+Повторить AJAX JS, FETCH , Promise , XML Http Request
+
+учить WordPress,plugins WordPress, hooks , filters ,WoRdPress functions 
+
+CSRF защита
+
+РЕГУЛЯРНЫЕ ВЫРАЖЕНИЯ
+
+ORM
+
+
+ПАГИНАЦИЯ БЕЗ ГЕТ ЗАПРОСА,Можно попробовать перелать роутинг
+
+CORS в PHP можно через укания в функции header access
+
+Учить английский Времена (завести тетрадь),PHP , PHP PDO , MVC , JS , WordPress , CMS , Hostings , PrestaShop
+
+Учить регистрацию классов
+
+DROPDOWN and SLIDER AND PRELOADER
+
+ООП PHP а в частности полиморфизм ,наследование и инкапсуляция , __get , __set ,__clone
+
+Времена в английском
+
+
