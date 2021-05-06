@@ -1,0 +1,32 @@
+Hello User or Developer!!
+
+
+For English speakers:
+
+  Read this document to understand and get started with the engine
+
+
+  Directory core have clases, which need for:
+
+    Create routing
+
+    Render Error page
+
+    Distribution controllers,views and models
+    
+
+
+Для русскоговорящих:
+
+  Прочтайте этот документ, чтобы понять и начать работу с движком
+
+  Папка core имеет классы ,которые нужные для:
+
+    Создания роутинга
+
+    Показ страницы ошибки
+
+    Распределение контроллеров, видов и моделей
+
+
+
